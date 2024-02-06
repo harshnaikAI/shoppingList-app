@@ -2,7 +2,7 @@
 Solo project from Scrimba's " The Front End Developer Carrier Path "
 
  1. Key Features
-    - User can add and delete items.
+    - User can add and delete ( double click on items )  items.
     - Mobile friendly design and can use it like an app.
     - Animation when Loading at first time.
     - User can changes the theme mode ( Dark and light ) with one line of css.
