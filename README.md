@@ -1,5 +1,7 @@
 # Shopping List - add to cart app
-Solo project from Scrimba's " The Front End Developer Carrier Path "
+Solo project from Scrimba's " The Front End Developer Carrier Path ".
+
+In this project we can add and delete items.
 
  1. Key Features
     - User can add and delete ( double click on items )  items.
